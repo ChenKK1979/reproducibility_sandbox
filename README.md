@@ -84,4 +84,4 @@ This pipeline performs RNA-seq analysis on AML samples from Shih et al., 2017, f
 This analysis adapts the refine.bio-examples notebook available at:
 [https://alexslemonade.github.io/refinebio-examples/03-rnaseq/clustering_rnaseq_01_heatmap.html](https://alexslemonade.github.io/refinebio-examples/03-rnaseq/clustering_rnaseq_01_heatmap.html)
 
-Note: This README file describes the analysis pipeline and requirements. For detailed methodology and implementation details, refer to the R Markdown file in the repository.
+Note: This README file describes the analysis pipeline and requirements. For detailed methodology and implementation details, refer to the R Markdown file in the repository. 
